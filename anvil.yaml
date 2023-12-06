@@ -29,13 +29,13 @@ db_schema:
     server: full
     columns:
     - name: Food_Item_Key
-      admin_ui: {order: 0, width: 110}
+      admin_ui: {order: 0, width: 143}
       type: number
     - name: Menu_Type
       admin_ui: {order: 1, width: 122}
       type: string
     - name: Food_Item_Type
-      admin_ui: {order: 2, width: 117}
+      admin_ui: {order: 2, width: 148}
       type: string
     - name: Specific_Item
       admin_ui: {order: 3, width: 130}
